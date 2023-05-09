@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Obsidian
+Comment=Obsidian Desktop App
+Exec=/path/to/obsidian
+Icon=/path/to/icon.png
+Terminal=false
+Type=Application
+Categories=Office;
